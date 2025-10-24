@@ -1,7 +1,7 @@
 # numaan.py
 
 def greet(name):
-    print(f"Hello, {name}! Welcome to Python 😊")
+    print(f"Hello, {name}! Welcome to github 😊")
 
 if __name__ == "__main__":
     greet("Numaan")
